@@ -8,6 +8,9 @@ namespace ConsoleApp7
         {
             Console.WriteLine("Hesdfsdfsdfllsdfo!");
             Console.WriteLine("Hesdfsdfsdfllsdfo!");
+            Console.WriteLine("Hesdfsdfsdfllsdfo!");
+            Console.WriteLine("Hesdfsdfsdfllsdfo!");
+            Console.WriteLine("Hesdfsdfsdfllsdfo!");
         }
     }
 }
