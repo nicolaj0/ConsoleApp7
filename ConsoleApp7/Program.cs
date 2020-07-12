@@ -6,7 +6,10 @@ namespace ConsoleApp7
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hesdfsdfsdfllsfghfghdfo!");
+            Console.WriteLine("Hesdfsdfsdfllsdfo!");
+            Console.WriteLine("Hesdfsdfsdfllsdfo!");
+            Console.WriteLine("Hesdfsdfsdfllsdfo!");
+            Console.WriteLine("Hesdfsdfsdfllsdfo!");
         }
     }
 }
